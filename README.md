@@ -4,7 +4,7 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Ve24nyDqWV)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/darkorioon)
 
-![Janielton GitHub stats](https://github-readme-stats.vercel.app/api?username=Janielton-Medeiros&theme=algolia_icons=true)
+![Janielton GitHub stats](https://github-readme-stats.vercel.app/api?username=Janielton-Medeiros&theme=dark&show_icons=true)
 
 ### 📝 Estudante Serratec/Firjan - Desenvolvedor Full Stack.  
 ### 👨‍💻 Tecnologias aprendidas: 
