@@ -22,4 +22,4 @@
   <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                  
 </div>
 
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
