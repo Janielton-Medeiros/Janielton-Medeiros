@@ -4,15 +4,22 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Ve24nyDqWV)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/darkorioon)
 
-![Janielton GitHub stats](https://github-readme-stats.vercel.app/api?username=Janielton-Medeiros&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janielton-Medeiros&theme=dark&show&anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ### 📝 Estudante Serratec/Firjan - Desenvolvedor Full Stack.  
 ### 👨‍💻 Tecnologias aprendidas: 
 <div style="display: inline_block"><br>
-  <img align = "center" alt=html5 src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img align = "center" alt=css3 src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img align = "center" alt=saas src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align = "center" alt=bootstrap src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align = "center" alt=js src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align = "center" alt=js height= 60px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align = "center" alt=js height= 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />                  
 </div>
 
+![snake animation](https://github.com/<Janielton-Medeiros>/<Janielton-Medeiros>/blob/output/github-contribution-grid-snake2.svg)
