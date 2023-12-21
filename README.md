@@ -10,7 +10,7 @@
 
 
 
-### 📝 Estudante Serratec/Firjan - Desenvolvedor Full Stack.  
+### 📝 Formação pelo Serratec/Firjan - Desenvolvedor Full Stack.  
 ### 👨‍💻 TECNOLOGIAS APRENDIDAS: 
 <div style="display: inline_block"><br>
   <img align = "center" alt=js height= 55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
